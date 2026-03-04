@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "madness-classic-backend",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "5fbf7aae-f3d1-4e81-be05-de05174f56a7",
+			"database_name": "registrations"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
